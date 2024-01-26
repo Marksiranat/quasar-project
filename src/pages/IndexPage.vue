@@ -22,7 +22,7 @@ export default {
   },
   methods: {
     submitForm() {
-      this.$emit('submit form')
+      this.$emit('submit 888')
     },
   }
 }
