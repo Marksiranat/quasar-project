@@ -23,3 +23,4 @@ test('should show the form element on the user output', () => {
     await button.trigger('click')
     expect(wrapper.vm.addition(1,2)).toBe(3)
   })
+  

@@ -22,7 +22,10 @@ export default {
       title: 'Vue is awesome.',
       firstValue:0,
       secondValue:0,
-      answerVulue:0
+      answerVulue:0,
+      firstName:'Siranat',
+      LastName : 'Jantakee',
+      id:"6404101342"
     }
   },
   methods: {
